@@ -51,7 +51,7 @@ app.post("/api/notification", (req, res) => {
 
         message,
 
-        status: "NOT SENT"
+        status: "SENT"
 
     });
 
